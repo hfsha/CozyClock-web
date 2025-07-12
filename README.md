@@ -45,7 +45,7 @@ A modern, cozy, and delightfully animated Pomodoro timer and productivity compan
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/yourusername/CozyClock-web.git
+   git clone https://github.com/hfsha/CozyClock-web.git
    cd CozyClock-web
    ```
 
@@ -81,8 +81,8 @@ A modern, cozy, and delightfully animated Pomodoro timer and productivity compan
 
 ## 🦄 Credits
 
-- Mascot GIF: [Your source or credit here]
-- Sound effects: [Your source or credit here]
+- Mascot GIF: [[Bunny GIF](https://id.picmix.com/stamp/Bunny-cute-1910788)]
+- Sound effects: [[Website for sound effects](https://pixabay.com/sound-effects/search/ding/)]
 - UI inspired by cozy productivity apps everywhere!
 
 ---
@@ -104,6 +104,3 @@ Let’s make productivity a little cozier, together.
 > Made with ☕, 💖, and a sprinkle of CSS magic.
 
 ---
-
-**Live Demo:**  
-[https://hfsha.com/CozyClock-web/index.html](https://hfsha.com/CozyClock-web/index.html)
